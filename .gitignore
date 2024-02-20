@@ -158,3 +158,19 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+.terraform.tfstate.*
+
+# Airflow
+airflow-webserver.pid
+airflow-webserver.err
+airflow-webserver.out
+airflow-scheduler.pid
+airflow-scheduler.err
+airflow-scheduler.out
+airflow.cfg
+

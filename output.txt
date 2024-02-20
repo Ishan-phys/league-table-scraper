@@ -1,0 +1,24 @@
+['position', 'previous_position', 'club', 'played', 'won', 'drawn', 'lost', 'gf', 'ga', 'gd', 'points']
+    position  previous_position           club  played  ...  gf  ga  gd  points
+0          1                  1      Liverpool      24  ...  55  23  32      54
+1          2                  2     Manchester      23  ...  56  25  31      52
+2          3                  3        Arsenal      24  ...  53  22  31      52
+3          4                  5      Tottenham      24  ...  51  36  15      47
+4          5                  4          Aston      24  ...  50  32  18      46
+5          6                  6     Manchester      24  ...  33  33   0      41
+6          7                  9      Newcastle      24  ...  51  39  12      36
+7          8                  7           West      24  ...  36  42  -6      36
+8          9                  8       Brighton      24  ...  43  40   3      35
+9         10                 11        Chelsea      24  ...  41  40   1      34
+10        11                 10  Wolverhampton      24  ...  37  39  -2      32
+11        12                 13         Fulham      24  ...  33  39  -6      29
+12        13                 12    Bournemouth      23  ...  31  44 -13      27
+13        14                 15      Brentford      23  ...  34  39  -5      25
+14        15                 14        Crystal      24  ...  27  43 -16      24
+15        16                 16     Nottingham      24  ...  30  44 -14      21
+16        17                 17          Luton      23  ...  33  45 -12      20
+17        18                 18        Everton      24  ...  26  32  -6      19
+18        19                 19        Burnley      24  ...  25  50 -25      13
+19        20                 20      Sheffield      24  ...  22  60 -38      13
+
+[20 rows x 11 columns]
