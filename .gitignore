@@ -163,7 +163,7 @@ cython_debug/
 # Terraform
 .terraform/
 .terraform.lock.hcl
-.terraform.tfstate.*
+terraform.tfstate.*
 
 # Airflow
 airflow-webserver.pid
